@@ -4,7 +4,7 @@ const gallery = document.getElementById("gallery");
 let baseImage = null;
 
 const tintImages = [
-  "tints/royalblue.png"
+  "tints/royalblue.PNG"
 ];
 
 // Upload
